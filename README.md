@@ -13,8 +13,9 @@ Interactive Chat Interface: The chatbot interface allows users to communicate di
 Make sure you have Python 3.7+ installed.
 
 #Steps
+
 1.Clone the repository:
-   git clone
+   git clone https://github.com/Greeva48/skill-eclipse.git
    cd Chatbot
    
 2. Install the required libraries:
