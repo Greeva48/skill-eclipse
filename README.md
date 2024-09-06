@@ -14,8 +14,9 @@ Make sure you have Python 3.7+ installed.
 
 #Steps
 
- 1.Clone the repository:
+1. Clone the repository:
    git clone https://github.com/Greeva48/skill-eclipse.git
+   
    cd Chatbot
    
 2. Install the required libraries:
