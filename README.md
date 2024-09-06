@@ -17,7 +17,7 @@ Make sure you have Python 3.7+ installed.
 1. Clone the repository:
    git clone https://github.com/Greeva48/skill-eclipse.git
    
-   cd Chatbot
+   cd Intents-based-Chatbot
    
 2. Install the required libraries:
    pip install -r requirements.txt
